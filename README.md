@@ -1,7 +1,7 @@
 <h1 align="center">Baptiste Marchand</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E77929&center=true&vCenter=true&width=600&lines=%C3%89tudiant+en+d%C3%A9veloppement;Je+construis+des+projets+concrets" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E77929&center=true&vCenter=true&width=600&lines=%C3%89tudiant+en+d%C3%A9veloppement" alt="Typing SVG" />
 </p>
 
 <p align="center">
