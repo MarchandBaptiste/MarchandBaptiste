@@ -14,5 +14,4 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,figma,wordpress,vscode,linux" alt="Stack technique" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Adobe_Creative_Cloud_rainbow_icon.svg" width="48" height="48" alt="Adobe Creative Cloud" style="vertical-align: middle; margin-left: 6px;" />
 </p>
