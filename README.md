@@ -12,5 +12,5 @@
 ## Stack technique
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,threejs,php,python,mysql,scss,git,figma,wordpress,vscode,linux" alt="Stack technique" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,threejs,php,python,java,mysql,scss,git,figma,wordpress,vscode,linux" alt="Stack technique" />
 </p>
