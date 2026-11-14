@@ -9,9 +9,8 @@
   J'aime coder, bidouiller, et creuser.
 </p>
 
-
 ## Stack technique
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,scss,git,figma,wordpress,vscode,linux,three" alt="Stack technique" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,scss,git,figma,wordpress,vscode,linux,threejs" alt="Stack technique" />
 </p>
