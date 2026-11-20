@@ -44,15 +44,9 @@ Je travaille actuellement sur une **Vitrine 3D - Kusmi Soda** :
 ## Me contacter
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/baptiste-marchand-35b027397/" target="_blank" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
-  </a>
+  <a href="https://www.linkedin.com/in/baptiste-marchand-35b027397/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="mailto:baptistemarchand2007@gmail.com" title="Email">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email" />
-  </a>
+  <a href="mailto:baptistemarchand2007@gmail.com" title="Email"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email" /></a>
   &nbsp;
-  <a href="https://marchandbaptiste.github.io/PortFolio/" target="_blank" title="Mon Portfolio">
-    <img src="./logo.png" width="48" height="48" alt="Portfolio" />
-  </a>
+  <a href="https://marchandbaptiste.github.io/PortFolio/" title="Mon Portfolio"><img src="./logo.png" width="48" height="48" alt="Portfolio" /></a>
 </p>
