@@ -6,7 +6,7 @@
 
 <p align="center">
   Étudiant en bachelor développement à La Manu (Amiens).<br/>
-  J'aime coder, bidouiller, et creuser.<br/>
+  J'aime coder, bidouiller et creuser, tout en cherchant à développer mes goûts.<br/>
 </p>
 
 ## Disponibilités
